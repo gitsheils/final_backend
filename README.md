@@ -1,0 +1,1 @@
+This backend app was built specifically for my Recipe Webook frontend app. This app uses Node and Express to process http requests from my frontend app. This backend app stores account email and password, and stores recipes of account users, in MongoDB.
